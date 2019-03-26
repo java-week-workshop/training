@@ -1,4 +1,4 @@
-package com.javaweek.javaweek;
+package com.javaweek;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

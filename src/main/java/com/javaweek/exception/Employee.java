@@ -1,4 +1,4 @@
-package com.javaweek.javaweek.exception;
+package com.javaweek.exception;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
