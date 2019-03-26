@@ -1,3 +1,5 @@
+package com.javaweek.exception;
+
 class MyException extends RuntimeException 
 { 
 	public MyException(String s) 

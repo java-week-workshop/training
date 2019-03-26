@@ -1,3 +1,5 @@
+package com.javaweek.exception;
+
 // Java program to demonstrate working of chained exceptions 
 /*
  * Chained Exceptions allows to relate one exception with another exception, i.e one exception describes cause of another exception. 

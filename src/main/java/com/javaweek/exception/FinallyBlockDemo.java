@@ -1,3 +1,5 @@
+package com.javaweek.exception;
+
 /*The only case when the code inside finally block is not executed is when System.exit(0) is called explicitly in the program. 
  * Then exit statement is called and the program is terminated without executing any further.*/
 

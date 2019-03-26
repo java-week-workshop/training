@@ -1,3 +1,5 @@
+package com.javaweek.exception;
+
 public class ExceptionDemo2 
 { 
 	private void m2() 

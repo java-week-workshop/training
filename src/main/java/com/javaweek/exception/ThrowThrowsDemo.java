@@ -1,9 +1,11 @@
+package com.javaweek.exception;
+
 // Java program that demonstrates the use of throw 
 
 /*throws keyword is required only for checked exception and usage of throws keyword for unchecked exception is meaningless.
 throws keyword is required only to convince compiler and usage of throws keyword does not prevent abnormal termination of program.
 By the help of throws keyword we can provide information to the caller of the method about the exception. */
-class ThrowExcep 
+class ThrowThrowsDemo 
 { 
 	static void fun() 
 	{ 

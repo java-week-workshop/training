@@ -1,6 +1,8 @@
+package com.javaweek.exception;
+
 
 /***Once an exception occurs in try block, the execution passes to corresponding catch statement 
- * and doesn’t return back to try block. Only one of the catch blocks are executed at a time. 
+ * and doesnï¿½t return back to try block. Only one of the catch blocks are executed at a time. 
  * finally block is always executed whether or not the exception occurred.**/
 
 public class ExceptionDemo1 

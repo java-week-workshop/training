@@ -1,3 +1,5 @@
+package com.javaweek.exception;
+
 /*Exceptions can be thrown in catch clause. This is done in order to change the exception type at run time.
  *  Exceptions in catch clause are thrown by creating instances of class Throwable as shown in the program.*/
 public class ThrowableDemo 
