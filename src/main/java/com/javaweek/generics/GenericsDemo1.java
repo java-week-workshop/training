@@ -4,9 +4,11 @@
 
 * Need for explicit casting as the object needs to be downcasted.
 * Unpleasant exception at runtime.
-* Since java is a type safe language that means type safety check is done at runtime by java.
+* Since java is a type safe language that means type safety check is done at 
+* runtime by java.
 
-* So to avoid and minimize these runtime exception, language designers decided to create generics.
+* So to avoid and minimize these runtime exception, language designers decided 
+* to create generics.
 Purpose was to detect such issues at compile time and minimize errors at runtime
 
 Generics is purely a compile time concept . "It means type safety at compile time" */
